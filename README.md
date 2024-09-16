@@ -9,6 +9,7 @@ This system offers a comprehensive solution to simplify airline ticket managemen
 Key Features
 <br/>
 Ticket Booking System: Passengers can easily book tickets through a user-friendly interface.
+<br/>
 Boarding Pass Generation: Automatically generates a digital boarding pass upon booking.
 <br/>
 PNR Retrieval: Customers can fetch their booking information by entering their unique PNR number.
